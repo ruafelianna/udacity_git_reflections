@@ -1,0 +1,27 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a special hidden directory with metadata inside. It is needed to be done because a user must decide him/herself when to create a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+In staging area we put files which we want to add to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can add to staging area only the files we want to commit. Also we can check changes using git diff and git diff --staged commands.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+We can have several versions of files simulteniously and change them independently.
+
+How do the diagrams help you visualize the branch structure?
+
+They show the tree of two branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We apply all the changes from both branches to one branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+With manual merging we can fully control process. Also git decision model won't be too complicated. But when doing merging manually we might need to check some code manually.
