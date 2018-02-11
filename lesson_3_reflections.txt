@@ -13,3 +13,7 @@ Clone is the full copy of repository. A fork is a special feature of GitHub whic
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 We have up-to-date info.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We'd need to go to the library and compare the files we changed manually haha :D
