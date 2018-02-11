@@ -17,3 +17,7 @@ We have up-to-date info.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 We'd need to go to the library and compare the files we changed manually haha :D
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+We wanna keep master branch as a "production" version, so if we are making any changes we better make a different branch and then merge it with master branch when we are sure it's ok.
